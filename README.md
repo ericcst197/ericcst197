@@ -8,13 +8,13 @@
   
 - 👨‍💻 Proficient in Vue.js, JavaScript, HTML, and CSS.
 
-- 😇 Proudly presenting my portfolio project : <a href="https://vue-netflix-ericcst.vercel.app/">Netflix clone</a>.
-
 - 🌱 I’m currently learning **React**.
 
 - 🚀 Interested in full-stack development and exploring backend technologies such as C# and PHP.
 
 - 💡 Enthusiastic about continuous learning and staying updated with the latest industry trends.
+
+- 😇 Proudly presenting my portfolio project : <a href="https://vue-netflix-ericcst.vercel.app/">Netflix clone</a>.
 
 ###
 
