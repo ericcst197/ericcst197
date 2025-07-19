@@ -6,15 +6,15 @@
   
 - 📖 Self-taught journey into programming driven by curiosity and problem-solving.
   
-- 👨‍💻 Proficient in Vue.js, JavaScript, HTML, and CSS.
+- 👨‍💻 Proficient in Vue.js, React.js, JavaScript & TypeScript, HTML, and CSS.
 
-- 🌱 I’m currently learning **React**.
+- 🌱 I’m currently learning **C#**.
 
-- 🚀 Interested in full-stack development and exploring backend technologies such as C# and PHP.
+- 🚀 Interested in full-stack development and exploring backend technologies such as C# or Java.
 
 - 💡 Enthusiastic about continuous learning and staying updated with the latest industry trends.
 
-- 😇 Proudly presenting my portfolio project : <a href="https://vue-netflix-ericcst.vercel.app/">Netflix clone</a>.
+- 😇 Proudly presenting [Budget Wise](https://ericcst197-budget-wise.vercel.app/), a personal finance app built for a Frontend Mentor challenge.
 
 ###
 
