@@ -8,7 +8,7 @@
   
 - 👨‍💻 Proficient in Vue.js, React.js, JavaScript & TypeScript, HTML, and CSS.
 
-- 🌱 I’m currently learning **C#**.
+- 🌱 I’m currently learning **Java**.
 
 - 🚀 Interested in full-stack development and exploring backend technologies such as C# or Java.
 
