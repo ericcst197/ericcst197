@@ -8,8 +8,6 @@
   
 - 👨‍💻 Proficient in Vue.js, React.js, JavaScript & TypeScript, HTML, and CSS.
 
-- 🌱 I’m currently learning **Java**.
-
 - 😇 Proudly presenting [Budget Wise](https://ericcst197-budget-wise.vercel.app/), a personal finance app built for a Frontend Mentor challenge.
 
 ###
@@ -24,18 +22,18 @@
 
 ###
 
-<h3 align="left">Github Stats</h3>
+<!-- <h3 align="left">Github Stats</h3>
 
-###
+### -->
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericcst197&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ericcst197&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 <div align="left">
    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=radical&preferLogin=false">    <img  alt="ericcst197's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ericcst197?cardType=octocat&theme=radical&preferLogin=false" />  </a>
-</div>
+</div> -->
 
 ###
 
